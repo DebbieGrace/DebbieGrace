@@ -3,7 +3,11 @@
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Folake;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
-
+<div align="center">
+      <p>
+          <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="Software Engineer">
+      </p>
+  </div>
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
@@ -16,7 +20,7 @@ terminal and Github for website development. Additionally, I am learning to buil
 <p> Connect with me on LinkedIn to see more about my projects and interests!</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/folake-oloyede-0351bb2a9/">
-    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <a href="https://github.com/DebbieGrace" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
