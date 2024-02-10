@@ -19,7 +19,7 @@ terminal and Github for website development. Additionally, I am learning to buil
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> Connect with me on LinkedIn to see more about my projects and interests!</p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/folake-oloyede-0351bb2a9/">
+  <a href="https://www.linkedin.com/in/folake-oloyede-0351bb2a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <a href="https://github.com/DebbieGrace" target="_blank">
@@ -43,8 +43,6 @@ terminal and Github for website development. Additionally, I am learning to buil
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </div>
-<div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 💞️ I’m happy to collaborate on various projects
 
 <!---
