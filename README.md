@@ -43,6 +43,7 @@ terminal and Github for website development. Additionally, I am learning to buil
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </div>
+    <hr>
 💞️ I’m happy to collaborate on various projects
 
 <!---
