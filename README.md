@@ -25,7 +25,6 @@ terminal and Github for website development. Additionally, I am learning to buil
 <a href="https://github.com/DebbieGrace" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
 </div>
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p>I devise solutions that are in line with an organization's strategic objectives by using the following programming languages. </p>
