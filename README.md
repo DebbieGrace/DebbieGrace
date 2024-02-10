@@ -10,8 +10,8 @@
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a budding software engineer. I am passionate about empowering organizations to leverage technology for significant growth. I am constantly improving my skills in using the Bash
-terminal and Github for website development. Additionally, I am learning to build responmsive websites using HTML, CSS and javascript. </p>
+    <p>I'm a budding software engineer passionate about empowering organizations to leverage technology for significant growth. I am constantly improving my skills in using the Bash
+terminal and Github for website development. Additionally, I am learning to build responsive websites using HTML, CSS and javascript. </p>
 </div>
 <div align="center">
     <!-- Replace href with your links -->
