@@ -23,10 +23,10 @@ terminal and Github for website development. Additionally, I am learning to buil
     <h2>Programming Languages</h2>
   <hr>
   <p>I devise solutions that are in line with an organization's strategic objectives by using the following programming languages. </p>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/CSS-007396?style=for-the-badge&logo=java&logoColor=white" alt="CSS" />
     <!-- Add more badges similarly -->
 </div>
-💞️ I’m happy to collaborate on varuious projects
+💞️ I’m happy to collaborate on various projects
 
 <!---
 DebbieGrace/DebbieGrace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
